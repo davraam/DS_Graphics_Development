@@ -2,13 +2,13 @@
 ---------
 The following functions are prototypes for a privacy preserving scatter plot function in [DataSHIELD](https://github.com/datashield) based on the k-Nearest Neighbours algorithm. 
 
-##`QA.ds.ScatterPlot`
+`QA.ds.ScatterPlot`
 (insert description)
 
-##`centroids1dDS.b.R`
+`centroids1dDS.b.R`
 (insert description)
 
-##`centroids2dDS.b.R`
+`centroids2dDS.b.R`
 (insert description)
 
 # Test R script
