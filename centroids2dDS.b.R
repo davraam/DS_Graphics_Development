@@ -6,7 +6,7 @@
 #' interest. Each point of interest and its n-1 nearest neighbours are then used for the calculation
 #' of the coordinates of the centroid of those n points. Centroid here is referred to the centre of mass,
 #' i.e. the x-coordinate of the centroid is the average value of the x-coordinates of the n nearest
-#' neighbours and the y-coordinate of the centroid is the average of the y-coordinated of the n nearest
+#' neighbours and the y-coordinate of the centroid is the average of the y-coordinates of the n nearest
 #' neighbours. The coordinates of the centroids return to the client side function and can be used for the
 #' plot of non-disclosive graphs (e.g. scatter plots, heatmap plots, contour plots, etc).    
 #' @param x the name of a numeric vector, the x-variable.
